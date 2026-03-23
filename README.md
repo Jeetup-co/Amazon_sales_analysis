@@ -178,7 +178,7 @@ pip install pandas numpy matplotlib seaborn
 ```bash
 jupyter notebook amazon_sales_business_analysis.ipynb
 ```
-> Or open directly in [Google Colab](https://colab.research.google.com/)
+> Or open directly in [Google Colab][(https://colab.research.google.com/)](https://colab.research.google.com/drive/19dhV15rIV9iKf4v_AA0eAYG29ugvEH2K?usp=sharing)
 
 ---
 
